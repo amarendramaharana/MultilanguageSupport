@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">பல மொழி ஆதரவு</string>
+    <string name="continue_tag">தொடரவும்</string>
+    <string name="welcome_tag">உங்களை\'தவறிவிட்டீர்கள் மீண்டும் வருக!</string>
+    <string name="mobile_number">மொபைல் எண்</string>
+    <string name="get_otp">OTP பெறவும்</string>
+    <string name="or_continue_with">அல்லது தொடரவும்</string>
+    <string name="cake_shop">கேக் கடை</string>
+
+</resources>

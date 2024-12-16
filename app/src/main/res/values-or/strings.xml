@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="continue_tag">ଜାରି ରଖ</string>
+    <string name="welcome_tag">ପୁନର୍ବାର ସ୍ୱାଗତ\nତୁମେ ହଜି ଯାଇଛ</string>
+    <string name="mobile_number">ମୋବାଇଲ୍ ନମ୍ବର</string>
+    <string name="get_otp">OTP ପାଆନ୍ତୁ</string>
+    <string name="or_continue_with">କିମ୍ବା ସହିତ ଜାରି ରଖନ୍ତୁ</string>
+    <string name="cake_shop">କେକ୍ ଦୋକାନ</string>
+</resources>

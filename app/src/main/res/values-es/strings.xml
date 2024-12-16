@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soporte multilingüe</string>
+    <string name="continue_tag">Continuar</string>
+    <string name="welcome_tag">¡Bienvenido de nuevo\nte hemos extrañado!</string>
+    <string name="mobile_number">Número de teléfono móvil</string>
+    <string name="get_otp">Obtener OTP</string>
+    <string name="or_continue_with">O continuar con</string>
+    <string name="cake_shop">Pastelería</string>
+
+</resources>
